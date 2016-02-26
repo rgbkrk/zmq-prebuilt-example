@@ -1,0 +1,11 @@
+{
+  "name": "zmq-prebuilt-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "pubber.js",
+  "author": "Kyle Kelley <rgbkrk@gmail.com>",
+  "license": "MPL-2.0",
+  "dependencies": {
+    "zmq-prebuilt": "0.0.3"
+  }
+}
