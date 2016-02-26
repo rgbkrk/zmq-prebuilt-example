@@ -1,6 +1,6 @@
 # zmq-prebuilt-example
 
-Example usage of `zmq-prebuilt`
+Example usage of [`zmq-prebuilt`](https://github.com/nteract/zmq-prebuilt)
 
 ## Local Install
 
